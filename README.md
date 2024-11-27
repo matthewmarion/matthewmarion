@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 - 🦫 ML/MLOps at @PrizePicks on pricing/simulations team
-- 🧪 Prev @ATT as lead developer on an ai test automation framework``
+- 🧪 Prev built ai test automation framework @ATT
 - 🔭 Building @barmaidsocial in my free time
