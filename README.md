@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on an ai test automation framework & @barmaidsocial
-- 🌱 I’m currently learning ML, rust, and french
+- 🦫 ML/MLOps at @PrizePicks on pricing/simulations team
+- 🧪 Prev @ATT as lead developer on an ai test automation framework``
+- 🔭 Building @barmaidsocial in my free time
